@@ -1,0 +1,3 @@
+/home/anshumaan/Development/cpp/opengl-tutorial-gigd/resource/OpenGL-for-Beginners/week 09 static geometry/3 appending textures/build/CMakeFiles/hello_window.dir
+/home/anshumaan/Development/cpp/opengl-tutorial-gigd/resource/OpenGL-for-Beginners/week 09 static geometry/3 appending textures/build/CMakeFiles/edit_cache.dir
+/home/anshumaan/Development/cpp/opengl-tutorial-gigd/resource/OpenGL-for-Beginners/week 09 static geometry/3 appending textures/build/CMakeFiles/rebuild_cache.dir

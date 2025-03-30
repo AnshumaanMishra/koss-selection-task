@@ -1,0 +1,10 @@
+# ninja log v6
+2	1720	1743192978016922031	CMakeFiles/hello_window.dir/src/glad.c.o	147dc88a65472c80
+3	2651	1743192978018952241	CMakeFiles/hello_window.dir/src/factories/texture_factory.cpp.o	a047c5dac970eafa
+3	2736	1743192978019260549	CMakeFiles/hello_window.dir/src/systems/camera_system.cpp.o	411945520f9791e8
+4	2795	1743192978020170734	CMakeFiles/hello_window.dir/src/systems/render_system.cpp.o	1032eac65f0bdc1d
+3192	3322	1743192981206944663	hello_window	e5cc84f4ec787e48
+5	3009	1743192978021294833	CMakeFiles/hello_window.dir/src/view/shader.cpp.o	5606e09fd13fb7f5
+1	3097	1743192978015922024	CMakeFiles/hello_window.dir/src/main.cpp.o	f3e765c2d6953cc0
+2	3133	1743192978018491212	CMakeFiles/hello_window.dir/src/factories/factory.cpp.o	fc7a1be07e9ab1ee
+6	3191	1743192978021697609	CMakeFiles/hello_window.dir/src/controller/app.cpp.o	6d12e97f02a4ac0d

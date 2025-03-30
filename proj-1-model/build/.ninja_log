@@ -1,0 +1,15 @@
+# ninja log v6
+1	1795	1743352432208432951	CMakeFiles/hello_window.dir/src/glad.c.o	dc6d13bf9ef028d4
+1	3569	1743352432208231265	CMakeFiles/hello_window.dir/src/main.cpp.o	57698aecef3c6e1e
+2	3815	1743352432209302495	CMakeFiles/hello_window.dir/src/systems/render_system.cpp.o	95d75b974bbfdaee
+2	3839	1743352432208902683	CMakeFiles/hello_window.dir/src/systems/camera_system.cpp.o	e6022b3844a38d78
+5	3886	1743352432211003298	CMakeFiles/hello_window.dir/src/controller/app.cpp.o	84623ebd157e1ef0
+2	3928	1743352432209098138	CMakeFiles/hello_window.dir/src/systems/motion_system.cpp.o	ea13519ccf62977d
+2	3939	1743352432209475330	CMakeFiles/hello_window.dir/src/view/shader.cpp.o	8f018db9932003f9
+1	4806	1743352432208684128	CMakeFiles/hello_window.dir/src/factories/factory.cpp.o	c80dd929cf509e20
+1	4962	1743352432207003311	CMakeFiles/hello_window.dir/src/config.cpp.o	c907a242da71f9ef
+4962	5171	1743352437168593441	hello_window	4da4dcb064608fb3
+9	1323	1743355459424966161	CMakeFiles/hello_window.dir/src/main.cpp.o	57698aecef3c6e1e
+1323	1557	1743355460738969691	hello_window	4da4dcb064608fb3
+3	1431	1743355479146019128	CMakeFiles/hello_window.dir/src/main.cpp.o	57698aecef3c6e1e
+1431	1633	1743355480574022963	hello_window	4da4dcb064608fb3

@@ -1,0 +1,3 @@
+/home/anshumaan/Development/College/koss-selection-task/build/CMakeFiles/my-opengl-project.dir
+/home/anshumaan/Development/College/koss-selection-task/build/CMakeFiles/edit_cache.dir
+/home/anshumaan/Development/College/koss-selection-task/build/CMakeFiles/rebuild_cache.dir

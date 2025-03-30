@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/anshumaan/Development/College/koss-selection-task/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/my-opengl-project.dir/src/main.cpp.o -c /home/anshumaan/Development/College/koss-selection-task/src/main.cpp",
+  "file": "/home/anshumaan/Development/College/koss-selection-task/src/main.cpp",
+  "output": "CMakeFiles/my-opengl-project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/anshumaan/Development/College/koss-selection-task/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/my-opengl-project.dir/src/glad.c.o -c /home/anshumaan/Development/College/koss-selection-task/src/glad.c",
+  "file": "/home/anshumaan/Development/College/koss-selection-task/src/glad.c",
+  "output": "CMakeFiles/my-opengl-project.dir/src/glad.c.o"
+}
+]
